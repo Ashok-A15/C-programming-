@@ -11,3 +11,4 @@ int main(void) {
   printf("calculate the intrest: %d", in);
   return 0;
 }
+
