@@ -9,6 +9,7 @@ void main() {
       even++;
     else
       odd++;
+    
   }
   printf("total even numbers are:%d", even);
   printf("\ntotal odd numbers are:%d", odd);
