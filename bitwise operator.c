@@ -1,6 +1,5 @@
 #include<stdio.h>
-  void main()
-{
+  void main(){
   int a=10, b=6;
   clrscr();
   printf("%d",a&b);
