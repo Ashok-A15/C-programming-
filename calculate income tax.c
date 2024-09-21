@@ -1,6 +1,7 @@
 
 #include<stdio.h>
 
+
 int main(){
     int income;
     float tax=0;
